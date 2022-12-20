@@ -1,2 +1,2 @@
 # Prepare-list
-List of item fo rprepare before trip
+List of item for prepare before trip
